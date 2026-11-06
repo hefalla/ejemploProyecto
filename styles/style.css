@@ -4,7 +4,7 @@
    ================================================ */
 
 [data-theme="light"] {
-    --bg-footer:  crimson;
+    --bg-footer:  rgb(20, 220, 57);
     --bg-body:    #fff;
     --color-filter: grayscale(0%);
     --color-text: #000;
